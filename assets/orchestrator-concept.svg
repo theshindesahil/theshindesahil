@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 230" role="img" aria-labelledby="title desc">
+<title id="title">Skill Orchestrator workflow</title>
+<desc id="desc">Task outcomes guide skill selection, ordered work, and result checks. Refine the selection when a capability gap appears.</desc>
+<rect width="560" height="230" fill="#161b17"/>
+<defs><marker id="arrow" markerWidth="5" markerHeight="5" refX="4" refY="2.5" orient="auto"><path d="M0 0L5 2.5L0 5" fill="none" stroke="#64725e"/></marker></defs>
+<text x="24" y="30" fill="#b7beb2" font-family="sans-serif" font-size="13">FROM TASK TO RESULT</text>
+<g fill="none" stroke="#64725e" stroke-width="1.5">
+<rect x="24" y="85" width="113" height="59" rx="3"/>
+<rect x="157" y="85" width="113" height="59" rx="3"/>
+<rect x="290" y="85" width="113" height="59" rx="3"/>
+<rect x="423" y="85" width="113" height="59" rx="3"/>
+<path d="M138 114h17M271 114h17M404 114h17" marker-end="url(#arrow)"/>
+<path d="M479 145v28H214v-26" stroke-dasharray="3 4" marker-end="url(#arrow)"/>
+</g>
+<g font-family="sans-serif" text-anchor="middle">
+<g fill="#d5aa61" font-size="17"><text x="80.5" y="109">Task</text><text x="213.5" y="109">Skills</text><text x="346.5" y="109">Work</text><text x="479.5" y="109">Checks</text></g>
+<g fill="#b7beb2" font-size="14"><text x="80.5" y="131">Outcomes</text><text x="213.5" y="131">Shortlist</text><text x="346.5" y="131">In order</text><text x="479.5" y="131">Evidence</text></g>
+<text x="346.5" y="191" fill="#b7beb2" font-size="12">Refine when a gap appears</text>
+</g>
+<text x="24" y="212" fill="#b7beb2" font-family="sans-serif" font-size="14">Discover / compose / execute / verify</text>
+</svg>
